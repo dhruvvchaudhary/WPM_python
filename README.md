@@ -75,9 +75,9 @@ It measures your **Words Per Minute (WPM)** while you type random sentences from
 - Add/remove sentences in `text.txt` for different practice texts.  
 - Change colors in `main()`:
 
-    curses.init_pair(1, curses.COLOR_GREEN, curses.COLOR_BLACK)  # Correct char
-    curses.init_pair(2, curses.COLOR_RED, curses.COLOR_BLACK)    # Wrong char
-    curses.init_pair(3, curses.COLOR_WHITE, curses.COLOR_BLACK)  # Default
+  - curses.init_pair(1, curses.COLOR_GREEN, curses.COLOR_BLACK)  # Correct char
+  - curses.init_pair(2, curses.COLOR_RED, curses.COLOR_BLACK)    # Wrong char
+  - curses.init_pair(3, curses.COLOR_WHITE, curses.COLOR_BLACK)  # Default
 
 ---
 
