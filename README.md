@@ -36,9 +36,6 @@ It measures your **Words Per Minute (WPM)** while you type random sentences from
 ## 🚀 How to Run
 1) Clone this repository or download the files.
 
-    git clone https://github.com/yourusername/speed-typing-test.git
-    cd speed-typing-test
-
 2) Ensure `text.txt` exists next to `tutorial.py`. Example `text.txt`:
 
     Typing speed is an essential skill in the modern world..
