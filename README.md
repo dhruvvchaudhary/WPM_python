@@ -6,20 +6,20 @@ It measures your **Words Per Minute (WPM)** while you type random sentences from
 ---
 
 ## 📌 Features
-- 🎯 Displays random sentences from `text.txt`  
-- ⏱️ Real-time **WPM calculation**  
-- ✅ Correct characters highlighted in **green**  
-- ❌ Incorrect characters highlighted in **red**  
-- ⌫ Backspace support  
-- ⎋ Press **ESC** to quit anytime  
-- 🔁 Restart after completion  
+- Displays random sentences from `text.txt`  
+- ⏱Real-time **WPM calculation**  
+- Correct characters highlighted in **green**  
+- Incorrect characters highlighted in **red**  
+- Backspace support  
+- Press **ESC** to quit anytime  
+- Restart after completion  
 
 ---
 
 ## 📂 Project Structure
     speed_typing_test/
     │── text.txt              # Sentences for typing
-    │── main.py               # Main Python script
+    │── tutorial.py               # Main Python script
     │── README.md             # Project documentation
 
 ---
@@ -39,15 +39,15 @@ It measures your **Words Per Minute (WPM)** while you type random sentences from
     git clone https://github.com/yourusername/speed-typing-test.git
     cd speed-typing-test
 
-2) Ensure `text.txt` exists next to `main.py`. Example `text.txt`:
+2) Ensure `text.txt` exists next to `tutorial.py`. Example `text.txt`:
 
-    The quick brown fox jumps over the lazy dog.
+    Typing speed is an essential skill in the modern world..
     Python makes programming fun and powerful.
     Typing fast improves your productivity.
 
 3) Run the program:
 
-    python main.py
+    python tutorial.py
 
 ---
 
